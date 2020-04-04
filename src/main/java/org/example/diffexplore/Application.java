@@ -6,4 +6,8 @@ public class Application {
 
         System.out.println("Test");
     }
+
+    private void dummy() {
+
+    }
 }
